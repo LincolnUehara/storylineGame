@@ -1,10 +1,10 @@
 # Storyline Game
 
-This game have the purpose to introduce about git tools. [Check the wiki](https://github.com/LincolnUehara/storylineGame/wiki) to see more details.
+Esse jogo tem o propósito de apresentar e ensinar as ferramentas git.[Confira o wiki](https://github.com/LincolnUehara/storylineGame/wiki) aonde mais detalhes estão descritos.
 
 ### License
 
-This project is licensed under the MIT License. See [LICENSE file](https://github.com/LincolnUehara/storylineGame/blob/master/LICENSE.txt) for more details.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/LincolnUehara/storylineGame/blob/master/LICENSE.txt) para mais detalhes.
 
 ### Author
 
