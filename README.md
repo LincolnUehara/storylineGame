@@ -11,3 +11,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
 ### Autor
 
 Lincoln Uehara
+
+A
